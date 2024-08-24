@@ -1,5 +1,5 @@
 {
-  "name": "movie-app",
+  "name": "rick-and-morty-assessment",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
